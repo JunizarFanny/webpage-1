@@ -6,7 +6,7 @@ webpage
 		<title>biodata dalam paragraf</title>
 	</head>
 
-	 <body background="hani.jpg"/>
+	 <body>
 		<img border="20" img src="bee.png"/>
 		<hr line color="blue"/>
 		<hr line color="pink"/>
